@@ -65,7 +65,7 @@
     "number": 4,
     "route": "53",
     "destZ": "星田 星匯",
-    "destY": "寶石 雲景邨",
+    "destY": "寶石 雲安邨",
     "maxPZ": "3",
     "priceZ1": "10.3",
     "halfpriceZ1": "5.2",
@@ -170,35 +170,19 @@
  {
     "number": 10,
     "route": "71A",
-    "destZ": "雲景邨",
-    "destY": "背沙",
-    "maxPZ": "3",
-    "priceZ1": "6.0",
-    "halfpriceZ1": "3.0",
-    "priceZ2": "4.7",
-    "halfpriceZ2": "2.4",
-    "priceZ3": "3.6",
-    "halfpriceZ3": "1.8",
-    "maxPY": "1",
-    "priceY1": "6.0",
-    "halfpriceY1": "3.0"
-  },
-{
-    "number": 11,
-    "route": "71B",
-    "destZ": "雲景邨",
-    "destY": "雲洛及安頌",
+    "destZ": "雲安邨",
+    "destY": "安頌苑",
     "maxPZ": "2",
-    "priceZ1": "6.0",
-    "halfpriceZ1": "3.0",
-    "priceZ2": "3.6",
+    "priceZ1": "5.2",
+    "halfpriceZ1": "2.6",
+    "priceZ2": "3.5",
     "halfpriceZ2": "1.8",
     "maxPY": "1",
-    "priceY1": "6.0",
-    "halfpriceY1": "3.0"
+    "priceY1": "5.2",
+    "halfpriceY1": "2.6"
   },
    {
-    "number": 12,
+    "number": 11,
     "route": "71R",
     "destZ": "雲景邨",
     "destY": "背沙體育館",
@@ -210,7 +194,7 @@
     "halfpriceY1": "4.5"
   },
    {
-    "number": 13,
+    "number": 12,
     "route": "237A",
     "destZ": "大園市中心",
     "destY": "背沙 背晴路",
@@ -231,7 +215,7 @@
   },
 
 {
-    "number": 14,
+    "number": 13,
     "route": "255",
     "destZ": "嘉門碼頭",
     "destY": "背沙 背晴路",
@@ -251,7 +235,7 @@
     "halfpriceY3": "2.4"
   },
   {
-    "number": 15,
+    "number": 14,
     "route": "260",
     "destZ": "嘉門市中心",
     "destY": "星田 星匯",
@@ -265,7 +249,7 @@
     "halfpriceY1": "2.8"
   },
   {
-    "number": 16,
+    "number": 15,
     "route": "260A",
     "destZ": "嘉門市中心",
     "destY": "星田科創園",
@@ -277,6 +261,22 @@
     "maxPY": "1",
     "priceY1": "5.2",
     "halfpriceY1": "2.6"
+  },
+{
+    "number": 16,
+    "route": "271",
+    "destZ": "天雲山",
+    "destY": "背沙 背晴路",
+    "maxPZ": "2",
+    "priceZ1": "6.4",
+    "halfpriceZ1": "3.2",
+    "priceZ2": "3.5",
+    "halfpriceZ2": "1.8",
+    "maxPY": "2",
+    "priceY1": "6.4",
+    "halfpriceY1": "3.2",
+    "priceY2": "4.7",
+    "halfpriceY2": "2.4"
   },
   {
     "number": 17,
